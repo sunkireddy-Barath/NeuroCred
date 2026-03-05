@@ -15,7 +15,7 @@
 
 ## Contracts
 
-### QIE Mainnet (Production) ✅ LIVE
+### QIE Mainnet (Production) 
 
 **Deployed on QIE Mainnet (Chain ID: 1990)**
 
