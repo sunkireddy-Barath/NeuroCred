@@ -1,8 +1,8 @@
-# NeuroCred — AI Credit Passport on QIE [neuro-cred-three.vercel.app]
+# NeuroCred —-AI Credit Passport on QIE [neuro-cred-three.vercel.app]
 
 **AI-powered on-chain credit passport (soulbound NFT) — reusable risk scores for DeFi apps on QIE.**
 
-**Status:** ✅ **Production Ready** — Contracts deployed to QIE testnet, backend API live on Render, frontend deployed on Vercel. Full stack operational with AI scoring, on-chain passport minting, and loan negotiation.
+**Status:**  **Production Ready** — Contracts deployed to QIE testnet, backend API live on Render, frontend deployed on Vercel. Full stack operational with AI scoring, on-chain passport minting, and loan negotiation.
 
 ---
 
